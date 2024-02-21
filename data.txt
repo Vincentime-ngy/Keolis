@@ -1,0 +1,145 @@
+basePath:[
+"at_pau2"
+"dijon"
+"dijon"
+"dijon"
+"dijon"
+"bordeaux"
+"bordeaux"
+"bordeaux"
+"bordeaux"
+"bordeaux"
+"velizy_vallee_de_la_bievres_-_vvb"
+"dijon"
+"tours"
+"blois2"
+"autocars_delion"
+"mobilite_paris"
+"keolis_metropole_orleans"
+"seine_et_oise_est_-_ksoe"
+"aix2"
+"seine_et_oise_est_-_ksoe"
+"autocars_delion"
+"argenteuil_boucle_de_seine_"
+"roissy_ouest_-_dsp_06_-_k958"
+"bourgogne"
+"tisse_-_k9115"
+]
+
+codeQualiacMaintainer:[
+"KAT117"
+"2107"
+"2107"
+"2107"
+"2107"
+"3307"
+"3307"
+"3307"
+"3307"
+"3307"
+"2107"
+"3707"
+"4107"
+"9202"
+"4508"
+"7805"
+"1305"
+"7805"
+"9202"
+"9507"
+"9508"
+"2100"
+]
+
+paramDisplay:[
+{
+    "id": "941b286c-a442-49d3-ae64-99cbe6a7d82b",
+    "projectId": "a84b23e3-cab7-4156-8ecf-24b8d6502fa7",
+    "subsidiaryId": "941b286c-a442-49d3-ae64-99cbe6a7d82b",
+    "displayComment": true,
+    "displayVersionNumber": false,
+    "displayDetailledVersionNumber": true,
+    "displayEffectiveWorkingTime": true,
+    "displayCountedTime": true,
+    "displayTimeRange": false,
+    "displayVacations": true,
+    "displayLineCodes": true,
+    "displayAllowance": false,
+    "displayCutoffAllowance": true,
+    "displayRangeAllowance": false,
+    "displayChargedKm": false,
+    "displayEmptyKm": false,
+    "displayTaskTravelTime": true,
+    "displayTaskComment": true,
+    "displayTaskLocalParcVehicle": false,
+    "displayTaskNationalParcVehicle": false,
+    "displayTaskRegistrationVehicle": false,
+    "displayTaskNoVehicle": true,
+    "displayTaskVehicleVersionNumber": false,
+    "displayTaskRideNumber": false,
+    "displayTaskTicketingNumber": false,
+    "displayTaskDestinationSign": false,
+    "displayTaskDrivenKm": false,
+    "displayTaskBilledKm": false,
+    "displayDayoffLabel": true,
+    "displayDetailedPlanning": true
+}
+]
+
+paramExchange:[
+{
+    "id": "941b286c-a442-49d3-ae64-99cbe6a7d82b",
+    "numberOfDaysBeforeDirectExchange": 2,
+    "numberOfDaysMaxForDayoffRequest": 180,
+    "forbiddenForA": true,
+    "projectId": "a84b23e3-cab7-4156-8ecf-24b8d6502fa7",
+    "subsidiaryId": "941b286c-a442-49d3-ae64-99cbe6a7d82b",
+    "numberOfHoursBeforeDirectExchange": 0,
+    "numberOfConsecutiveWorkingDays": 6,
+    "dailyRestTime": "10:00",
+    "effectiveWorkingTimeMax": "46:00",
+    "numberOfDaysToCheckRestDay": 5,
+    "forbiddenForR": false,
+    "prohibitExchangeToModifiedServices": true,
+    "exchangeForPrevisionalService": true,
+    "synchronizeExchangeWithSourceTool": true,
+    "synchronizeAbsenceWithSourceTool": true,
+    "forbiddenForE": true,
+    "forbiddenForP": false,
+    "forbiddenForO": false,
+    "checkRestDays": true
+}
+]
+
+paramPlanning:[
+{
+    "id": "941b286c-a442-49d3-ae64-99cbe6a7d82b",
+    "projectId": "a84b23e3-cab7-4156-8ecf-24b8d6502fa7",
+    "subsidiaryId": "941b286c-a442-49d3-ae64-99cbe6a7d82b",
+    "pastDays": 1,
+    "provisionalDays": 90,
+    "referenceDate": "2018-08-14",
+    "endBroadcastDate": "2024-04-29",
+    "myScreenDays": 8,
+    "firstDay": 7,
+    "secondDay": 6,
+    "thirdDay": 12,
+    "fourthDay": 11,
+    "fifthDay": 10,
+    "sixthDay": 9,
+    "seventhDay": 8,
+    "eighthDay": 7,
+    "ninthDay": 6,
+    "tenthDay": 12,
+    "eleventhDay": 11,
+    "twelfthDay": 10,
+    "thirteenthDay": 9,
+    "fourteenthDay": 8,
+    "displayProvisionalDays": true,
+    "previsionalDayClickable": true,
+    "pastDayClickable": true,
+    "canModifyTimetable": false,
+    "canAddActivity": false
+}
+]
+
